@@ -1,0 +1,23 @@
+EstimationBasic
+ * LargeNum1 (* or /) LargeNum2 (+ or -) LargeNum3 =?
+ 
+FReciprocal
+ * A/B + B/A =?
+ 
+Same10
+ * AB * AC =?
+ 
+Same10AddTo5
+ * AB * AC =?, with B + C = 5
+ 
+T3367
+ * 3367 * AB (possibly in reverse order)
+
+Trick1
+ * 1A * BC =?.
+ 
+TrickFoil
+ * AB * CD =?
+
+TrickMult123
+ * ABC * DEF = ?, where A,B,C,D,E,F are from the set {1, 2, 3}
