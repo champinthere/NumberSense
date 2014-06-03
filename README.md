@@ -1,18 +1,18 @@
 NUMBER SENSE
 ============
 
-********************************************************************************
-*                                DESCRIPTION                                   *
-********************************************************************************
+
+Description
+------------
+
 
 This is the first attempt at the LaTeX Number Sense generator. It can be used to
 quickly, effectively, and, 'specifically' generate practice problems live and on
 demand. Of course, it is by far still in development.
 
 
-********************************************************************************
-*                            PLATFORM DEPENDENCE                               *
-********************************************************************************
+Platform Dependence
+---------------------
 
 As of now, this generator is highly platform dependent. Firstly, it requires a 
 successful installation of pdflatex, preferably a TeXLive distribution. Next,
@@ -22,9 +22,8 @@ to be modified to work with Windows. Lastly, the constant path Strings in
 shrey.number.sense.GUI will need to be modified to suit your system and
 preferred Location.
 
-********************************************************************************
-*                                 FUTURE GOALS                                 *
-********************************************************************************
+Future Goals
+_______________
 
 Firstly, more Tricks need to be created. The procedure for doing so can be
 outlined as follows: 
