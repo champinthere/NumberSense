@@ -23,7 +23,7 @@ shrey.number.sense.GUI will need to be modified to suit your system and
 preferred Location.
 
 Future Goals
-_______________
+---------------
 
 Firstly, more Tricks need to be created. The procedure for doing so can be
 outlined as follows: 
