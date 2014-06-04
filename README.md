@@ -8,7 +8,7 @@ Description
 
 This is the first attempt at the LaTeX Number Sense generator. It can be used to
 quickly, effectively, and, 'specifically' generate practice problems live and on
-demand. Of course, it is by far still in development.
+demand. Of course, it is by far still in development. Main class is GUI.java.
 
 
 Platform Dependence
@@ -28,14 +28,14 @@ Future Goals
 Firstly, more Tricks need to be created. The procedure for doing so can be
 outlined as follows: 
 
-1.  Create a class for your new Trick. You must extend Trick and override the 
-    toL() method. See the documentation of toL() in class Trick for details.
+1.  Create a class for your new Trick. You must extend class <code>Trick</code> and override the 
+    <code>toL()</code> method. See the documentation of <code>toL()</code> in class <code>Trick</code> for details.
     Proper commenting is highly recommended. Look at the Tricks already
     created for reference/examples.
-2.  In class GUI, note how Strings corresponding to class names are being 
-    added to the Vector<String> text. In the same format as seen in lines
+2.  In class <code>GUI</code>, note how Strings corresponding to class names are being 
+    added to the <code>Vector\<String> text</code>. In the same format as seen in lines
     64-71 (at the time this documentation was produced) of GUI.java, add
-    the name of the class extending Trick you created.
+    the name of the class extending <code>Trick</code> you created.
 3.  (Optional, but recommended) Add tool-tip text for your class in the file
     Tipper.txt. Follow the format already presented.
     
