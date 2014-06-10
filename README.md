@@ -34,7 +34,7 @@ outlined as follows:
     created for reference/examples.
 2.  In class <code>GUI</code>, note how Strings corresponding to class names are being 
     added to the <code>Vector\<String> text</code>. In the same format as seen in lines
-    64-71 (at the time this documentation was produced) of GUI.java, add
+    64-72 (at the time this documentation was produced) of GUI.java, add
     the name of the class extending <code>Trick</code> you created.
 3.  (Optional, but recommended) Add tool-tip text for your class in the file
     Tipper.txt. Follow the format already presented.
@@ -55,6 +55,6 @@ Trick List
 5. Multiplying 2 - digit with same 10's digit with one's digits adding to 10
 6. Multiplying by 3367
 7. Multiplying 3 digit integers, each with digits all 3 or smaller
-8. Fraction times integer in form : a * a/b (under development)
+8. Fraction times integer in form : a * a/b 
 9. Basic Conversion (under development)
 10. Multiplying by 143 (under development)
