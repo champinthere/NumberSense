@@ -34,7 +34,7 @@ outlined as follows:
     created for reference/examples.
 2.  In class <code>GUI</code>, note how Strings corresponding to class names are being 
     added to the <code>Vector\<String> text</code>. In the same format as seen in lines
-    64-72 (at the time this documentation was produced) of GUI.java, add
+    64-73 (at the time this documentation was produced) of GUI.java, add
     the name of the class extending <code>Trick</code> you created.
 3.  (Optional, but recommended) Add tool-tip text for your class in the file
     Tipper.txt. Follow the format already presented.
