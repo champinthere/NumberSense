@@ -49,4 +49,12 @@ Trick List
 -----------
 
 1. Basic FOIL
-2. 
+2. Basic Estimation
+3. Reciprocation
+4. Multiplying 2 - digit with same 10's digit
+5. Multiplying 2 - digit with same 10's digit with one's digits adding to 10
+6. Multiplying by 3367
+7. Multiplying 3 digit integers, each with digits all 3 or smaller
+8. Fraction times integer in form : a X a/b (under development)
+9. Basic Conversion (under development)
+10. Multiplying by 143 (under development)
