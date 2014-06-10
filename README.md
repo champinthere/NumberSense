@@ -44,3 +44,9 @@ the average non-technical user that will eventually by the target audience.
 Therefore, a future aspiration should be to create a mannerism in which
 our software can respond to server requests and send material at the request 
 of the user through an interactive and user-friendly interface.
+
+Trick List
+-----------
+
+1. Basic FOIL
+2. 
