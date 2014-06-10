@@ -27,7 +27,8 @@ public class FractionTimesInt1 extends Trick
     }
     String [] st = new String [3];
     st[0] = String.format("\\item \\( %d \\times %d \\)", a , r1.toLatex());
-    st[1] = val+temp.toLatex();
+    st[1] = st[1] = String.format("\\item \\( %d \\)", ""+val+temp.toLatex());
     st[2] = "\\hspace{3mm}(Mixed)";
+    return st;
   }
 }
