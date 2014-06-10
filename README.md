@@ -57,4 +57,4 @@ Trick List
 7. Multiplying 3 digit integers, each with digits all 3 or smaller
 8. Fraction times integer in form : a * a/b 
 9. Basic Conversion (under development)
-10. Multiplying by 143 (under development)
+10. Multiplying by 143
