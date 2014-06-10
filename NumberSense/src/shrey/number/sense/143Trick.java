@@ -4,7 +4,8 @@
 
 public class 143Trick
 {
-  public String toL [] ()
+  @Override
+  public String tL [] ()
   {
     int val1 = 7 * ((int)(Math.random()*15)+5);
     int val2 = 143 * val1;
