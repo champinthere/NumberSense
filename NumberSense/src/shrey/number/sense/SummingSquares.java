@@ -1,1 +1,4 @@
-public
+public SummingSquares extends Trick
+{
+  
+}
