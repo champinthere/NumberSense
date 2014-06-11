@@ -71,6 +71,7 @@ public class GUI extends JFrame {
 		text.add("TrickMult123");
 		text.add("FractionTimesInt1");
 		text.add("143Trick");
+		text.add("Squaring5s");
 		list.setListData(text);
 	    list.addMouseMotionListener(new MouseMotionAdapter() {
 	        @Override
