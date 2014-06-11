@@ -1,4 +1,4 @@
-public Squaring5s
+public Squaring5s extends Trick
 {
   @Override
   public String tL [] ()
