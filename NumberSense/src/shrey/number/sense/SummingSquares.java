@@ -1,5 +1,6 @@
 public SummingSquares extends Trick
 {
+  @Override
   public String [] tL()
   {
     String [] st = new String [3];
