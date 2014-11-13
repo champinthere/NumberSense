@@ -58,3 +58,12 @@ Trick List
 8. Fraction times integer in form : a * a/b 
 9. Basic Conversion (under development)
 10. Multiplying by 143
+
+TODO:
+-----
+. Create an ordered collection of problems from 1 to 80 whoose tricks match that of the UIL release study material.
+. Create new Tricks to match the UIL study material
+
+Proposed Trick List for 2014 (TODO)
+-----------------------------------
+For the proposed set of Tricks, refer to the <a href = "sequence.pdf">Trick List</a>
