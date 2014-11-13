@@ -61,9 +61,10 @@ Trick List
 
 TODO:
 -----
-. Create an ordered collection of problems from 1 to 80 whoose tricks match that of the UIL release study material.
-. Create new Tricks to match the UIL study material
-
+<ul>
+    <li> Create an ordered collection of problems from 1 to 80 whoose tricks match that of the UIL release study material. </li>
+    <li> Create new Tricks to match the UIL study material </li>
+</ul>
 Proposed Trick List for 2014 (TODO)
 -----------------------------------
-For the proposed set of Tricks, refer to the <a href = "sequence.pdf">Trick List</a>
+For the proposed set of Tricks, refer to the <a href = "sequence.pdf" target = "_blank">Trick List</a>
